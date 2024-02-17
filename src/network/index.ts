@@ -8,3 +8,4 @@ export type {
 } from './auth/interfaces';
 
 export * as TaskService from './task/Task.service';
+export * as TestService from './test/Test.service';
